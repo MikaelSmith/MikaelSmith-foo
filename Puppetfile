@@ -1,0 +1,6 @@
+mod 'puppetlabs-stdlib'
+mod 'pltraining-dirtree'
+mod 'puppetlabs-inifile'
+mod 'puppet-archive'
+mod 'puppetlabs-java_ks'
+mod 'puppet-rundeck'
